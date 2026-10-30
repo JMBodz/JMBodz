@@ -7,13 +7,20 @@ I'm a Senior Software Engineer in the Philippines working across full-stack deve
 ## What I work on
 
 - **Product engineering:** Planned and built recurring team practices, Stripe seat-based subscriptions, multisport tools, and player assessments at N-LITE Sports.
-- **Enterprise systems:** Worked on batching plant and manufacturing management software at RapidSignal Electronics with .NET, ASP.NET Core APIs, Blazor, and Microsoft Dynamics.
+- **Enterprise systems:** Worked on batching plant and manufacturing management software at RapidSignal Electronics with .NET, ASP.NET Core APIs, Blazor, Microsoft Dynamics, and SQL Server.
 - **Applied AI workflows:** Integrated audio and text processing for customer service quality analysis with 95%+ accuracy, plus OCR, vision recognition, and playbook forms at Assembled Systems.
 - **Delivery and infrastructure:** Added CI/CD smoke tests and staging automation for ICP canisters at ICTI, and deployed an application with CI/CD on DigitalOcean for Trade Imperial.
 
 ## Tools I use
 
-TypeScript · React · Next.js · Node.js · NestJS · C# · .NET · ASP.NET Core · Blazor · Microsoft Dynamics · Python · FastAPI · PostgreSQL · MongoDB · Docker · DigitalOcean
+- **Frontend:** TypeScript · React · Next.js · Blazor
+- **Backend and APIs:** Node.js · NestJS · C# · .NET · ASP.NET Core · Python · FastAPI
+- **Data and enterprise:** PostgreSQL · MongoDB · SQL Server · Microsoft Dynamics
+- **AI integrations:** OpenAI API · Gemini · AssemblyAI · Retell AI · DigitalOcean Agent Platform
+- **Cloud platforms:** Vercel · Render · DigitalOcean · Google Cloud · Azure
+- **Deployment and CI/CD:** Docker · Docker Hub · GitHub · GitHub Actions
+- **Development assistants:** Codex · Claude Code
+- **Testing:** Playwright · Cypress · Jest
 
 ## Get in touch
 
