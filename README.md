@@ -1,6 +1,6 @@
 # Hi, I'm John Mark Bodegas
 
-I'm a software engineer in the Philippines working across full-stack development, system design, integrations, and cloud deployment. I enjoy turning business ideas into practical software.
+I'm a Senior Software Engineer in the Philippines working across full-stack development, system design, integrations, and cloud deployment. I enjoy turning business ideas into practical software.
 
 **[Visit my portfolio →](https://jmbodz.github.io/)**
 
